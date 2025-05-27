@@ -8,9 +8,6 @@ A passionate tech learner based in Lagos, Nigeria 🇳🇬
 - 🎯 [Boston Housing Regression](https://github.com/KingsleyElo/Boston_Housing_Regression)  
   Applied multiple regression models to predict housing prices using sklearn. Includes data preprocessing, EDA, and performance evaluation.
 
-- 🧠 [Data Analytics SQL Case Study](https://github.com/KingsleyElo/DataAnalytics-Assessment)  
-  Solved real-world SQL case study using complex queries and business logic. This assessment demonstrates my practical SQL and data interpretation skills.
-
 - 🇧🇷 [Brazil Medical Appointment Analysis](https://github.com/KingsleyElo/Brazil-Medical-Data)  
   Analyzed patient no-show patterns using Pandas and Matplotlib. Included wrangling, EDA, and recommendations.
 
