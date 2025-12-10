@@ -1,76 +1,101 @@
 # 👋 Hi, I'm Kingsley Eloebhose
 
-A passionate tech learner and aspiring **Data Scientist** based in Lagos, Nigeria 🇳🇬.  
-I blend curiosity, code, and storytelling to solve real-world problems with data.
+**Data Analyst → Data Engineer (In Progress) → Future Data Scientist**  
+📍 Lagos, Nigeria
+
+I turn raw data into insights, build data workflows, and design pipelines that make data reliable, accessible, and impactful.  
+Currently transitioning into **Data Engineering** while strengthening my machine learning foundations through real, end-to-end projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Data Projects
 
-- 🎯 [Boston Housing Regression](https://github.com/KingsleyElo/Boston_Housing_Regression)  
-  Built and evaluated multiple regression models to predict housing prices. Includes preprocessing, EDA, and performance comparison using scikit-learn.
-
-- 🇧🇷 [Brazil Medical Appointment Analysis](https://github.com/KingsleyElo/Brazil-Medical-Data)  
-  Analyzed patient no-show trends using Python and Matplotlib. Insights were backed by clean wrangling, visual storytelling, and actionable conclusions.
-
-- 🎵 [TooExclusive Songs Scraper](https://github.com/KingsleyElo/TooExclusiveSongsScraper)  
-  Web scraping project that collected and structured Nigerian music data using BeautifulSoup. 
+### 🏗️ ETL Pipeline: API → Airflow → PostgreSQL  
+*A production-style data engineering project (in development)*  
+- Pipeline built with Python, Airflow, Docker, and PostgreSQL  
+- Automated extraction, transformation, and loading  
+- Data modeling (Star Schema) + warehouse design  
+- Focused on reliability, scheduling, and modular DAG structure  
 
 ---
 
-## 🌱 What I'm Learning Now
-
-Currently growing as a Data Scientist, while blending in web development skills to stay versatile and industry-ready:
-
-### 🧠 Data Science & Analysis
-- Completing Microsoft’s [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-- Enhancing my skills in Python, pandas, scikit-learn, and SQL
-- Working on hands-on data projects and ML model deployment
-
-### 🌐 Web Development (Side Track)
-- HTML5, CSS3 (Responsive Design, Flexbox, Grid)
-- PHP for backend (used in internal tools)
-- Learning JavaScript to power interactive dashboards and portfolio websites
+### 🏘️ Lagos Real Estate Data Analysis  
+*Leverages my industry experience in real estate*  
+- Data cleaning & transformation with Python (Pandas)  
+- Exploratory Data Analysis of property pricing trends  
+- SQL analytics + Tableau dashboard  
+- Real estate domain insights from Lagos market data  
 
 ---
 
-## 🧰 Skills & Technologies
-
-### 🧪 Data & Analytics
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🤖 Machine Learning: Price Prediction Model  
+*A lightweight ML project to demonstrate ML foundations*  
+- Regression model with feature engineering  
+- Multiple model comparisons (Linear, Random Forest, XGBoost)  
+- Evaluation using MAE, RMSE, R²  
+- Structured Jupyter notebook with clear explanations  
 
 ---
 
-## 🎯 Goals & Opportunities
+## 🎓 What I'm Focusing on Now
 
-- 🔍 Looking to collaborate on **data science or machine learning projects**
-- 🌍 Open to **remote data analyst roles**, **freelance dashboards**, or **web-data hybrids**
-- 👥 Eager to join **communities**, mentorship groups, or open-source data initiatives
+### 🔧 Data Engineering Pathway  
+- Airflow for workflow orchestration  
+- Building automated ETL/ELT pipelines  
+- PostgreSQL & SQL performance tuning  
+- Docker for environment management  
+- Data modeling (Star, Snowflake)  
+- Cloud fundamentals (GCP/AWS)
+
+### 🧠 Machine Learning Foundations  
+- Supervised ML with scikit-learn  
+- Feature engineering techniques  
+- Model deployment basics  
+- Responsible & interpretable AI practices  
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Skills & Tools
 
-![](https://github-readme-stats.vercel.app/api?username=KingsleyElo&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=KingsleyElo&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingsleyElo&theme=dark&hide_border=false&layout=compact)
+### **Programming & Analytics**
+- Python (Pandas, NumPy, Requests)  
+- SQL (CTEs, window functions, joins)  
+- Exploratory Data Analysis  
+- Data Cleaning & Wrangling  
+
+### **Data Engineering**
+- Airflow (DAGs, scheduling)  
+- ETL Pipelines  
+- Docker (beginner/intermediate)  
+- PostgreSQL / MySQL  
+- Data Modeling (OLTP/OLAP)  
+
+### **Visualization**
+- Tableau  
+- Power BI  
+- Matplotlib & Seaborn  
+
+### **Automation Tools**
+- n8n  
+- Make  
+- Zapier  
+
+---
+
+## 🎯 Career Goals (2026 Ready)
+
+- Build **5+ strong portfolio projects** demonstrating data engineering & ML skills  
+- Secure a **Data Analyst / Junior Data Engineer role** (remote or hybrid)  
+- Contribute to open-source data tools & workflow projects  
+- Advance toward **Machine Learning Engineer / Data Scientist** roles  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kingsleyeloebhose)  
-- 📧 [Email](eloebhosekingsley@outlook.com)
+- 💼 [LinkedIn](www.linkedin.com/in/kingsley-eloebhose-77ab41379)  
+- 📧 eloebhosekingsley@outlook.com  
+
+---
+
+⭐ *Thank you for visiting my GitHub! Feel free to explore my ongoing and upcoming data projects.*
