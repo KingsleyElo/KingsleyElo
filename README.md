@@ -37,6 +37,8 @@ My long-term goal is to specialize in **Machine Learning & AI** and pursue a Mas
 
 *This project reflects my ability to design scalable data-driven workflows that support analytics and ML pipelines.*
 
+👉 [View Project](https://github.com/KingsleyElo/AI-Automation-PTO-system-)
+
 ---
 
 ## 🎓 Current Focus
