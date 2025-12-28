@@ -22,7 +22,7 @@ My long-term goal is to specialize in **Machine Learning & AI** and pursue a Mas
 - Evaluated models using **R² and RMSE**
 - Tools: Python, Pandas, scikit-learn, Matplotlib, Seaborn
 
-👉 [View Project](https://github.com/KingsleyElo/Boston_Housing_Regression)
+👉 [View Repository](https://github.com/KingsleyElo/Boston_Housing_Regression)
 
 ---
 
@@ -37,7 +37,7 @@ My long-term goal is to specialize in **Machine Learning & AI** and pursue a Mas
 
 *This project reflects my ability to design scalable data-driven workflows that support analytics and ML pipelines.*
 
-👉 [View Project](https://github.com/KingsleyElo/AI-Automation-PTO-system-)
+👉 [View Repository](https://github.com/KingsleyElo/AI-Automation-PTO-system-)
 
 
 ## 📊 Data Analysis & Visualization (Supporting Projects)
@@ -47,8 +47,10 @@ My long-term goal is to specialize in **Machine Learning & AI** and pursue a Mas
 - Identified key cost drivers and month-to-month trends
 - Focused on actionable insights for better financial decision-making
 
-👉 [View Dashboard](https://public.tableau.com/app/profile/eloebhose.kingsley.osazele/viz/BudgetAnalysisProject/OverviewDashboard)  
+👉 [View Dashboard](https://public.tableau.com/app/profile/eloebhose.kingsley.osazele/viz/BudgetAnalysisProject/OverviewDashboard)
+
 👉 [View Repository](https://github.com/KingsleyElo/Tableau-Project-Personal-Budget-Analysis)
+
 ---
 
 ## 🎓 Current Focus
