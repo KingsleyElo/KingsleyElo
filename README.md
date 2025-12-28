@@ -39,6 +39,16 @@ My long-term goal is to specialize in **Machine Learning & AI** and pursue a Mas
 
 👉 [View Project](https://github.com/KingsleyElo/AI-Automation-PTO-system-)
 
+
+## 📊 Data Analysis & Visualization (Supporting Projects)
+
+### 📈 Personal Budget Analysis Dashboard (Tableau)
+- Built an interactive Tableau dashboard to analyze income and spending patterns
+- Identified key cost drivers and month-to-month trends
+- Focused on actionable insights for better financial decision-making
+
+👉 [View Dashboard](https://public.tableau.com/app/profile/eloebhose.kingsley.osazele/viz/BudgetAnalysisProject/OverviewDashboard)  
+👉 [View Repository](https://github.com/KingsleyElo/Tableau-Project-Personal-Budget-Analysis)
 ---
 
 ## 🎓 Current Focus
