@@ -3,45 +3,74 @@
 **Data Analyst → Aspiring Machine Learning Engineer**  
 📍 Lagos, Nigeria
 
-I’m transitioning into **Machine Learning & Artificial Intelligence**, building strong foundations in data science, statistics, and applied ML.  
-My background in data analysis helps me work confidently with real-world datasets and frame problems from a business and analytical perspective.
+I’m building a strong foundation in **Machine Learning & Artificial Intelligence**, with hands-on experience in data analysis, regression modeling, and workflow automation.
+
+My background in data analysis and automation helps me work confidently with real-world datasets — from data collection and preparation to model training and evaluation.
 
 My long-term goal is to specialize in **Machine Learning & AI** and pursue a Master’s degree in Information Technology with a focus on intelligent systems.
 
 ---
 
-## 🎯 Current Focus (Machine Learning)
+## 🚀 Featured Projects
 
-I’m currently deepening my understanding of:
+### 🤖 Boston Housing Price Prediction (Regression)
+**Applied Machine Learning Project**
 
-### 🧠 Machine Learning & Data Science
-- Supervised learning with **scikit-learn**
-- Data preprocessing and feature engineering
-- Model evaluation and validation
-- Bias–variance tradeoff and overfitting
-- Practical ML workflows using Jupyter notebooks
+- Built and compared **linear, regularized, non-linear, and ensemble regression models**
+- Achieved **86.4% R²** using a stacking ensemble model
+- Performed feature importance analysis for interpretability
+- Evaluated models using **R² and RMSE**
+- Tools: Python, Pandas, scikit-learn, Matplotlib, Seaborn
 
-### 📊 Data Foundations (Supporting Skills)
-- Python (Pandas, NumPy)
-- SQL for data analysis
-- Exploratory Data Analysis (EDA)
-- Preparing clean, ML-ready datasets
+👉 [View Project](https://github.com/KingsleyElo/Boston_Housing_Regression)
 
 ---
 
-## 🛠️ Skills & Tools
+### ⚙️ Automated Employee Time-Off Management System
+**Low-Code Data & Workflow Automation Project**
+
+- Designed an end-to-end automated system for employee leave management
+- Modeled relational data using **Airtable** (Employees, Managers, Leave Requests)
+- Built automated workflows with **Zapier** for approvals, notifications, and balance updates
+- Implemented scheduled automation for annual leave balance resets
+- Demonstrates strong understanding of **data flows, automation, and business systems**
+
+*This project reflects my ability to design scalable data-driven workflows that support analytics and ML pipelines.*
+
+---
+
+## 🎓 Current Focus
+
+### 🧠 Machine Learning & Data Science (Primary)
+- Supervised learning with **scikit-learn**
+- Regression and classification techniques
+- Feature engineering and data preprocessing
+- Model evaluation and validation
+- Bias–variance tradeoff and overfitting
+- Interpretable and responsible ML practices
+
+### 📊 Data & Automation Foundations (Supporting)
+- Python (Pandas, NumPy)
+- SQL for analytics
+- Exploratory Data Analysis (EDA)
+- Workflow automation (n8n, Zapier, Make)
+- Preparing ML-ready datasets from raw sources
+
+---
+
+## 🧰 Skills & Tools
 
 ### Machine Learning & Data Science
 - Python (Pandas, NumPy, scikit-learn)
-- Exploratory Data Analysis
+- Regression & Model Evaluation
 - Feature Engineering
-- Model Training & Evaluation
+- Exploratory Data Analysis
 - Jupyter Notebook
 
-### Data & Analytics Foundations
+### Data & Analytics
 - SQL (CTEs, joins, window functions)
 - Data Cleaning & Wrangling
-- PostgreSQL / MySQL (basics)
+- PostgreSQL / MySQL (foundational)
 
 ### Visualization
 - Matplotlib
@@ -50,31 +79,21 @@ I’m currently deepening my understanding of:
 - Power BI
 
 ### Automation & Tooling
+- Airtable
+- Zapier
 - n8n
 - Make
-- Zapier
 - Git & GitHub
 
 ---
 
-## 🚀 Upcoming Projects
+## 🎯 Career Goals
 
-I’m actively working toward publishing **applied Machine Learning projects**, including:
-
-- 📈 **Regression Project** — price or demand prediction using real-world data  
-- 🧮 **Classification Project** — customer behavior or risk prediction  
-- 🧠 **End-to-End ML Project** — from raw data to trained and evaluated model  
-
-These projects will focus on **problem formulation, data preparation, model building, and clear documentation**.
-
----
-
-## 🎓 Career Goals
-
-- Build a **strong Machine Learning portfolio** with real, well-documented projects
-- Gain deeper expertise in **ML & AI fundamentals**
+- Build **strong applied Machine Learning portfolio projects**
+- Deepen expertise in **ML & AI fundamentals**
 - Prepare for a **Master’s degree in Machine Learning / Artificial Intelligence**
 - Transition into an **entry-level Machine Learning or Data Science role**
+- Work on real-world ML systems that combine data, automation, and intelligence
 
 ---
 
@@ -85,4 +104,4 @@ These projects will focus on **problem formulation, data preparation, model buil
 
 ---
 
-⭐ *Thanks for visiting my GitHub. I’m actively learning, building, and sharing my Machine Learning journey.*
+⭐ *Thanks for visiting my GitHub. I’m actively learning, building, and documenting my journey into Machine Learning & AI.*
