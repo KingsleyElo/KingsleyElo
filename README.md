@@ -1,101 +1,88 @@
 # 👋 Hi, I'm Kingsley Eloebhose
 
-**Data Analyst → Data Engineer (In Progress) → Future Data Scientist**  
+**Data Analyst → Aspiring Machine Learning Engineer**  
 📍 Lagos, Nigeria
 
-I turn raw data into insights, build data workflows, and design pipelines that make data reliable, accessible, and impactful.  
-Currently transitioning into **Data Engineering** while strengthening my machine learning foundations through real, end-to-end projects.
+I’m transitioning into **Machine Learning & Artificial Intelligence**, building strong foundations in data science, statistics, and applied ML.  
+My background in data analysis helps me work confidently with real-world datasets and frame problems from a business and analytical perspective.
+
+My long-term goal is to specialize in **Machine Learning & AI** and pursue a Master’s degree in Information Technology with a focus on intelligent systems.
 
 ---
 
-## 🚀 Featured Data Projects
+## 🎯 Current Focus (Machine Learning)
 
-### 🏗️ ETL Pipeline: API → Airflow → PostgreSQL  
-*A production-style data engineering project (in development)*  
-- Pipeline built with Python, Airflow, Docker, and PostgreSQL  
-- Automated extraction, transformation, and loading  
-- Data modeling (Star Schema) + warehouse design  
-- Focused on reliability, scheduling, and modular DAG structure  
+I’m currently deepening my understanding of:
 
----
+### 🧠 Machine Learning & Data Science
+- Supervised learning with **scikit-learn**
+- Data preprocessing and feature engineering
+- Model evaluation and validation
+- Bias–variance tradeoff and overfitting
+- Practical ML workflows using Jupyter notebooks
 
-### 🏘️ Lagos Real Estate Data Analysis  
-*Leverages my industry experience in real estate*  
-- Data cleaning & transformation with Python (Pandas)  
-- Exploratory Data Analysis of property pricing trends  
-- SQL analytics + Tableau dashboard  
-- Real estate domain insights from Lagos market data  
-
----
-
-### 🤖 Machine Learning: Price Prediction Model  
-*A lightweight ML project to demonstrate ML foundations*  
-- Regression model with feature engineering  
-- Multiple model comparisons (Linear, Random Forest, XGBoost)  
-- Evaluation using MAE, RMSE, R²  
-- Structured Jupyter notebook with clear explanations  
+### 📊 Data Foundations (Supporting Skills)
+- Python (Pandas, NumPy)
+- SQL for data analysis
+- Exploratory Data Analysis (EDA)
+- Preparing clean, ML-ready datasets
 
 ---
 
-## 🎓 What I'm Focusing on Now
+## 🛠️ Skills & Tools
 
-### 🔧 Data Engineering Pathway  
-- Airflow for workflow orchestration  
-- Building automated ETL/ELT pipelines  
-- PostgreSQL & SQL performance tuning  
-- Docker for environment management  
-- Data modeling (Star, Snowflake)  
-- Cloud fundamentals (GCP/AWS)
+### Machine Learning & Data Science
+- Python (Pandas, NumPy, scikit-learn)
+- Exploratory Data Analysis
+- Feature Engineering
+- Model Training & Evaluation
+- Jupyter Notebook
 
-### 🧠 Machine Learning Foundations  
-- Supervised ML with scikit-learn  
-- Feature engineering techniques  
-- Model deployment basics  
-- Responsible & interpretable AI practices  
+### Data & Analytics Foundations
+- SQL (CTEs, joins, window functions)
+- Data Cleaning & Wrangling
+- PostgreSQL / MySQL (basics)
 
----
+### Visualization
+- Matplotlib
+- Seaborn
+- Tableau
+- Power BI
 
-## 🧰 Skills & Tools
-
-### **Programming & Analytics**
-- Python (Pandas, NumPy, Requests)  
-- SQL (CTEs, window functions, joins)  
-- Exploratory Data Analysis  
-- Data Cleaning & Wrangling  
-
-### **Data Engineering**
-- Airflow (DAGs, scheduling)  
-- ETL Pipelines  
-- Docker (beginner/intermediate)  
-- PostgreSQL / MySQL  
-- Data Modeling (OLTP/OLAP)  
-
-### **Visualization**
-- Tableau  
-- Power BI  
-- Matplotlib & Seaborn  
-
-### **Automation Tools**
-- n8n  
-- Make  
-- Zapier  
+### Automation & Tooling
+- n8n
+- Make
+- Zapier
+- Git & GitHub
 
 ---
 
-## 🎯 Career Goals (2026 Ready)
+## 🚀 Upcoming Projects
 
-- Build **5+ strong portfolio projects** demonstrating data engineering & ML skills  
-- Secure a **Data Analyst / Junior Data Engineer role** (remote or hybrid)  
-- Contribute to open-source data tools & workflow projects  
-- Advance toward **Machine Learning Engineer / Data Scientist** roles  
+I’m actively working toward publishing **applied Machine Learning projects**, including:
+
+- 📈 **Regression Project** — price or demand prediction using real-world data  
+- 🧮 **Classification Project** — customer behavior or risk prediction  
+- 🧠 **End-to-End ML Project** — from raw data to trained and evaluated model  
+
+These projects will focus on **problem formulation, data preparation, model building, and clear documentation**.
+
+---
+
+## 🎓 Career Goals
+
+- Build a **strong Machine Learning portfolio** with real, well-documented projects
+- Gain deeper expertise in **ML & AI fundamentals**
+- Prepare for a **Master’s degree in Machine Learning / Artificial Intelligence**
+- Transition into an **entry-level Machine Learning or Data Science role**
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/kingsley-eloebhose-77ab41379)  
-- 📧 eloebhosekingsley@outlook.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-eloebhose-77ab41379)
+- 📧 eloebhosekingsley@outlook.com
 
 ---
 
-⭐ *Thank you for visiting my GitHub! Feel free to explore my ongoing and upcoming data projects.*
+⭐ *Thanks for visiting my GitHub. I’m actively learning, building, and sharing my Machine Learning journey.*
